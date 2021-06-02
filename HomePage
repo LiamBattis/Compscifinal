@@ -1,1 +1,4 @@
 
+
+<p> Hello, this is the webpage for my computer science final. My project is a python program that when given data on the populations of animals in an ecosystem,
+will graph the populations over time. From this data, my program will also predict the predator / prey relationships between animals in the ecosystem. </p>
